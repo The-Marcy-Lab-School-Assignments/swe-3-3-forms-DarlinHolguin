@@ -21,3 +21,9 @@ ul {
 }
 
 /* TODO: Add your styles here */
+
+header {
+  display: flex;
+  text-align: center;
+  padding: 20px;
+}
